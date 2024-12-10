@@ -1,0 +1,7 @@
+﻿  SIAOD_5.2.cpp
+D:\Projects\SIAOD_5.2\SIAOD_5.2\SIAOD_5.2.cpp(5,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\SIAOD_5.2\SIAOD_5.2\SIAOD_5.2.cpp(74,23): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+D:\Projects\SIAOD_5.2\SIAOD_5.2\SIAOD_5.2.cpp(75,23): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+D:\Projects\SIAOD_5.2\SIAOD_5.2\SIAOD_5.2.cpp(76,23): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+D:\Projects\SIAOD_5.2\SIAOD_5.2\SIAOD_5.2.cpp(105,33): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  SIAOD_5.2.vcxproj -> D:\Projects\SIAOD_5.2\x64\Debug\SIAOD_5.2.exe
